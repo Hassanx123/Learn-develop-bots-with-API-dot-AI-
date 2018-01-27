@@ -1,0 +1,123 @@
+[
+  {
+    "id": "b45cbe46-7e33-41f6-9dbf-57a80ebd93f2",
+    "data": [
+      {
+        "text": "my email is a ",
+        "userDefined": false
+      },
+      {
+        "text": "abc@abc.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d6d0fbcf-6223-44ec-9f4b-982765610a6d",
+    "data": [
+      {
+        "text": "Book rooms for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5cd5516b-5d5d-42fb-8343-4fbe6f04054b",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0cd8c2e0-52dd-4c6c-b475-9f27e522ad51",
+    "data": [
+      {
+        "text": "reserve a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81706c79-c718-41c1-a402-228b6bb47600",
+    "data": [
+      {
+        "text": "book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1b9c8656-bf25-423e-9e0e-d144c420d0da",
+    "data": [
+      {
+        "text": "I want to reserve a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a36454c-70ff-40e7-99c2-a251b0d088ee",
+    "data": [
+      {
+        "text": "I want to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ace0bb7a-ffac-44e2-bfbc-71f2ba85166c",
+    "data": [
+      {
+        "text": "I want a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cb17d1ed-b189-4f2b-80e4-63c1fe02e8c4",
+    "data": [
+      {
+        "text": "I need a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
